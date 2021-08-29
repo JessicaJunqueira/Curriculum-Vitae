@@ -1,0 +1,64 @@
+
+body {
+	background: #white; url('../imagem/fundo.png');
+	font: 16px Arial, helvetica, sans-serif;
+}
+
+#principal {
+	width: 1000px;
+}
+
+#menu {
+	background: #white;
+	padding: 18px;
+	width: 100%;
+	float: left;
+	position: relative;
+
+}
+
+#conteudo {
+	
+	padding: 10px;
+}
+
+#title{
+
+	background: #white;
+	width: 900;
+}
+
+#nome{
+	position: relative;
+	float: left;
+	width: 60%;
+}
+
+#foto{
+	position: relative;
+	float: right;
+	width: 20%;
+	height: 100px;
+}
+
+#img{
+	height: 200px;
+}
+
+#table{
+
+	text-align: left;
+	width: 100%
+}
+
+ #obj{
+
+ 	background:#e8e8d9;
+	padding: 10px;
+	text-decoration: none;
+ }
+
+
+.centralizar {
+	text-align: center;
+}
